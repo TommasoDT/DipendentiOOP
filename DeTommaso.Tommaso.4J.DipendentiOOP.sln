@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeTommaso.Tommaso.4J.DipendentiOOP", "DeTommaso.Tommaso.4J.DipendentiOOP\DeTommaso.Tommaso.4J.DipendentiOOP.csproj", "{FF5EDAB8-CC7A-451F-AEC4-9C0C716B387C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF5EDAB8-CC7A-451F-AEC4-9C0C716B387C}.Debug|x86.ActiveCfg = Debug|x86
+		{FF5EDAB8-CC7A-451F-AEC4-9C0C716B387C}.Debug|x86.Build.0 = Debug|x86
+		{FF5EDAB8-CC7A-451F-AEC4-9C0C716B387C}.Release|x86.ActiveCfg = Release|x86
+		{FF5EDAB8-CC7A-451F-AEC4-9C0C716B387C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
